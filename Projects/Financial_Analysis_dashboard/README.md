@@ -62,7 +62,7 @@ This project presents a comprehensive financial performance analysis using Power
 ![Financial Dashboard](Financial_Dashboard_1.png)
 ![Financial Dashboard](Financial_Dashboard_2.png)
 ![Financial Dashboard](Financial_Dashboard_3.png)
-![Financial Dashboard](Financial_Dashboard_4.png)
+![Financial Dashboard](Financial_dashboard_4.png)
 
 
 ---
