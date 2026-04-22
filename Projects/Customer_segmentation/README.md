@@ -43,7 +43,7 @@ This project analyzes customer purchasing behavior using RFM (Recency, Frequency
 
 ## 📷 Dashboard Preview
 
-![Customer Segmentation Dashboard](Custoomer_segmentation.png)
+![Customer Segmentation Dashboard](Customer_segmentation.png)
 
 ---
 
